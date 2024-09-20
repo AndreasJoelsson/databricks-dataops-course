@@ -17,3 +17,12 @@
 # MAGIC %md
 # MAGIC
 # MAGIC Answer here...
+# MAGIC - dev_andreaserikwilhelmjoelsson_test1_1e576290_revenue
+# MAGIC   - borough_population
+# MAGIC   - revenue_by_borough
+# MAGIC   - revenue_by_tripmonth
+# MAGIC   - revenue_per_inhabitant
+
+# COMMAND ----------
+
+

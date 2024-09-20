@@ -48,6 +48,9 @@
 # MAGIC %md
 # MAGIC
 # MAGIC Answer here...
+# MAGIC
+# MAGIC Job is the task that should be executed.
+# MAGIC Job run is the execution of the defined job.
 
 # COMMAND ----------
 
@@ -61,6 +64,10 @@
 # MAGIC %md
 # MAGIC
 # MAGIC Answer here...
+# MAGIC
+# MAGIC acme_transport_taxinyc_prep_dev_andreaserikwilhelmjoelsson_test1_1e576290 run
+# MAGIC
+# MAGIC part of the git commit short sha.
 
 # COMMAND ----------
 
@@ -73,6 +80,8 @@
 # MAGIC %md
 # MAGIC
 # MAGIC Answer here...
+# MAGIC
+# MAGIC Under Compute, as a sheared-job-cluster-dev
 
 # COMMAND ----------
 
